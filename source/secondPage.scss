@@ -1,0 +1,15 @@
+@use 'config/reset.scss';
+
+.container {
+    padding: 0 16px;
+
+    h1 {
+        margin: 30px 0;
+        color: #99DAFF;
+    }
+
+    p {
+        line-height: 25px;
+        text-align: justify;
+    }
+}

@@ -42,7 +42,6 @@ main .container {
 .container h1 {
   margin: 30px 0;
   color: #99DAFF;
-  text-align: center;
 }
 .container p {
   font-size: 18px;
@@ -54,9 +53,6 @@ main .container {
 body {
   background-color: #262626;
   color: white;
-}
-body header .container h1 {
-  margin: 30px 0;
 }
 body li {
   list-style-type: none;

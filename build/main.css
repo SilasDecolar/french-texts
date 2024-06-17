@@ -69,6 +69,9 @@ body {
   background-color: #262626;
   color: white;
 }
+body header div h1 {
+  text-align: center;
+}
 body li {
   list-style-type: none;
   margin-bottom: 8px;
@@ -78,6 +81,9 @@ body li a {
   font-weight: bold;
   text-decoration: none;
   font-size: 20px;
+}
+body main {
+  margin-bottom: 60px;
 }
 body .line {
   margin-top: 20px;

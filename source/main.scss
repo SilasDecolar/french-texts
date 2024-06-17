@@ -4,7 +4,15 @@
 body {
     background-color: #262626;
     color: white;
-    
+
+    header {
+        div {
+            h1 {
+                text-align: center;
+            }
+        }
+    }
+
     li {
         list-style-type: none;
         margin-bottom: 8px;
@@ -17,6 +25,10 @@ body {
         }
     }
 
+    main {
+        margin-bottom: 60px;
+    }
+
     .line {
         margin-top: 20px;
         margin-bottom: 20px;
@@ -24,4 +36,3 @@ body {
         font-weight: bolder;
     }
 }
-
